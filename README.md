@@ -4,7 +4,7 @@ Developed a basic DJ application using JUCE C++ application framework
 <br/>
 <br/>
 
-### The application included the following functionality:
+### The application includes the following functionality:
 Users can load audio files into audio players, <br/>
 can play two tracks, <br/>
 can mix the tracks by varying each of their volumes, <br/>
