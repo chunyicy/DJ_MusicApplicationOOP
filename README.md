@@ -22,3 +22,7 @@ application<br/>
 
 
 ![djApp](https://user-images.githubusercontent.com/116086176/197424828-37c4367c-7277-4352-8cc7-e05bd1c6204e.jpg)
+
+
+
+![djApp1](https://user-images.githubusercontent.com/116086176/197425559-b01224ae-dc52-4bfa-b1cc-52be4e84d908.jpg)
