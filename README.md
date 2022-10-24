@@ -19,6 +19,6 @@ application<br/>
 <br/>
 <br/>
 
-![djApp](https://user-images.githubusercontent.com/116086176/197418040-83eb1116-ecc3-4dcb-bdd9-e9db52be5430.jpg)
 
 
+![djApp](https://user-images.githubusercontent.com/116086176/197424828-37c4367c-7277-4352-8cc7-e05bd1c6204e.jpg)
